@@ -23,7 +23,7 @@
     "moment-range": "~1.0.5"
   },
   "peerDependencies": {
-    "react": "~0.11.2"
+    "react": "~0.11.2^"
   },
   "browserify": {
     "transform": [
